@@ -1,0 +1,14 @@
+[mag@gpn-node20 task2]$ ./global.out 
+Используемая память: global memory
+Результат фильтрации: 'filtred_image.png'!
+Время выполнения: 2.32848 мсек
+
+[mag@gpn-node20 task2]$ ./shared.out 
+Используемая память: shared memory
+Результат фильтрации: 'filtred_image.png'!
+Время выполнения: 1.95501 мсек
+
+[mag@gpn-node20 task2]$ ./texture.out 
+Используемая память: texture memory
+Результат фильтрации: 'filtred_image.png'!
+Время выполнения: 2.90096 мсек
