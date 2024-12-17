@@ -1,0 +1,23 @@
+For matrix 
+A 1000x2000
+B 2000x1500
+
+
+Used Global memory
+Arows = 1008
+Acols = 2000
+Brows = 2000
+Bcols = 1504
+KernelTime: 4.16 milliseconds
+Test STARTED
+Test PASSED
+
+
+Used Shared memory
+Arows = 1008
+Acols = 2000
+Brows = 2000
+Bcols = 1504
+KernelTime: 3.56 milliseconds
+Test STARTED
+Test PASSED
